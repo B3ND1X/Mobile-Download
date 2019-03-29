@@ -1,3 +1,8 @@
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
 .topnav {
   background-color: #333;
   overflow: hidden;
